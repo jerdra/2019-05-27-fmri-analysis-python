@@ -238,7 +238,7 @@ You should not have them use the workshop website repository because:
     into your workshop's website while you are using it to teach.
 
 You can call this repository whatever you like,
-and add whatever content you need to it.
+and add whatever content you need to it
 
 ## Getting and Giving Help
 
